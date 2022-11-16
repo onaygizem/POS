@@ -1,0 +1,13 @@
+.ant-layout-sider.ant-layout-sider-dark.site-layout-background {
+    flex: none !important;
+    width: unset !important;
+    max-width: unset !important;
+}
+
+.ant-menu.ant-menu-root.ant-menu-inline.ant-menu-light {
+    width: unset !important;
+}
+
+.productMenuItem{
+    height: 200px !important;
+}
